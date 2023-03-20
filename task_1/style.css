@@ -1,0 +1,14 @@
+body {
+    background: linear-gradient(45deg, #EECFBA, #C5DDE8);
+    margin: 100;
+    padding: 100; 
+}
+
+.finland {
+    background-color: blue;
+}
+
+.japan{
+    background-color: white;
+}
+

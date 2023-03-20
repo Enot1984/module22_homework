@@ -1,0 +1,24 @@
+body {
+    background: linear-gradient(45deg, #EECFBA, #C5DDE8);
+    margin: 100;
+    padding: 100; 
+    font-family: Comic Sans, cursive; 
+    color:purple;
+}
+
+button {
+    padding: 0;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    display: flex;
+    margin: 5px 10px;
+    padding: 10px 15px;
+    border-radius: 2px;
+    font-size: 12px;
+    line-height: 15px;
+    text-transform: uppercase;
+    color:white;
+    background: blueviolet;
+    transition: 0.3s;
+}

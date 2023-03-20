@@ -1,0 +1,18 @@
+body {
+    background: linear-gradient(45deg, #EECFBA, #C5DDE8);
+    margin: 100;
+    padding: 100; 
+}
+
+ul {
+    list-style-type: square;
+    color:purple;
+    font-family: Comic Sans, cursive;
+}
+
+li {
+    text-transform: uppercase;
+    list-style-type: none; 
+    text-decoration: none; 
+    line-height: 2;
+}
